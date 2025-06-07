@@ -4,7 +4,7 @@ Welcome to the generative AI kickstarter. This is a pure educational project.
 
 # Components
 
-The project consists of two main components as specified in the 'docker-compose.yml.' 
+The project consists of two main components as specified in the 'docker-compose.yml'.  
 
 ## Ollama 
 r
@@ -18,7 +18,7 @@ Oben Web UI [https://openwebui.com/] serves as a Frontend directly connected to 
 
 Make sure you have Docker installed. Simply start the project via typing
 ´´´
-docker-compose up -d 
+docker compose up -d 
 ´´´
 in your terminal. Data persistency is ensured via mounted volumnes. 
 
