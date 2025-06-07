@@ -7,12 +7,11 @@ Welcome to the generative AI kickstarter. This is a pure educational project.
 The project consists of two main components as specified in the 'docker-compose.yml'.  
 
 ## Ollama 
-r
-Ollama [https://ollama.com/] seves as the API to communicate your self hosted languamge models 
+[Ollama](https://ollama.com/) seves as the API to communicate your self hosted languamge models 
 
 ## Open Web UI 
 
-Oben Web UI [https://openwebui.com/] serves as a Frontend directly connected to the ollama service. 
+[Oben Web UI](https://openwebui.com/) serves as a Frontend directly connected to the ollama service. 
 
 ## Usage 
 
